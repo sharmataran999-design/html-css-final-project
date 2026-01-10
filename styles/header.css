@@ -160,15 +160,15 @@ background-color: rgb(244, 244, 244);
 }
 .notifications-count{
     position:absolute;
-    top:-3px;
+    top:-4px;
     right:-8px; 
     border: solid ;
     background-color: rgb(203, 0, 0);
     color: white;
-    font-family:Roboto,Arial, sans-serif;
+    font-family:Roboto,Arial,sans-serif;
     font-size: 11px;
     padding:2px 5px 2px 5px;
-    border-radius: 10px;
+    border-radius: 50%;
 }
 .notifications-icon{
    height:24px; 
